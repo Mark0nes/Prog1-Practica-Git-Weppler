@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\weppl\\Desktop\\Programacion I\\Prog1-Practica-Git-Weppler\\Ejercicio\\Ejercicio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\weppl\\Desktop\\Programacion I\\Prog1-Practica-Git-Weppler\\Ejercicio\\Ejercicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\weppl\\Desktop\\Programacion I\\Prog1-Practica-Git-Weppler\\Ejercicio\\Ejercicio.csproj",
+        "projectName": "Ejercicio",
+        "projectPath": "C:\\Users\\weppl\\Desktop\\Programacion I\\Prog1-Practica-Git-Weppler\\Ejercicio\\Ejercicio.csproj",
+        "packagesPath": "C:\\Users\\weppl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\weppl\\Desktop\\Programacion I\\Prog1-Practica-Git-Weppler\\Ejercicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\weppl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
